@@ -9,7 +9,7 @@ Com experiência em construção de sistemas escaláveis e APIs robustas, utiliz
 🌐 Onde me encontrar: 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sposito-calandrin/) 
-<a href="mailto:guilhermesposito14@gmail.com"> ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> [!https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://api.whatsapp.com/send?phone=5516992366175&text=Ol%C3%A1.%20Encontrei%20seu%20contato%20no%20Git%20Hub%20...%20)
+<a href="mailto:guilhermesposito14@gmail.com"> ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> [![whatsAPP]https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://api.whatsapp.com/send?phone=5516992366175&text=Ol%C3%A1.%20Encontrei%20seu%20contato%20no%20Git%20Hub%20...%20)
 
 🚨 Hard Skills:
 
