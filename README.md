@@ -4,7 +4,9 @@ Me chamo Guilherme Sposito Calandrin. Sou um Back-End Developer apaixonado por t
 
 Com experiência em construção de sistemas escaláveis e APIs robustas, utilizo JavaScript e TypeScript para criar códigos dinâmicos. O Node.js é minha escolha para desenvolvimento rápido e eficaz do lado do servidor. Bancos de dados SQL, especialmente PostgreSQL, são essenciais para meu gerenciamento de dados seguro e eficiente.
 
-[![repositorio API](https://img.shields.io/badge/Clique%20Para%20ver%20uma%20API%20REST%20Feito%20por%20mim!-00C300?style=for-the-badge&logo=&logoColor=white)](https://github.com/GuilhermeSposito/APIRest_Projeto_Cubos)
+[![repositorio API](https://img.shields.io/badge/Clique%20Para%20ver%20uma%20API%20REST%20Feito%20por%20mim!-00C300?style=for-the-badge&logo=&logoColor=white)](https://github.com/GuilhermeSposito/projeto-pisolejo)
+
+
 
 🌐 Onde me encontrar: 
 
@@ -21,6 +23,5 @@ Com experiência em construção de sistemas escaláveis e APIs robustas, utiliz
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-![Princiopais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSposito&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
 
 > Quem falha em Planejar, planeja em falhar!
