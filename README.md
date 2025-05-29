@@ -43,6 +43,11 @@ Estou sempre atento às inovações e boas práticas que impulsionam o desenvolv
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSposito&layout=compact)
+
+
+---
+
 💡 *"Quem falha em planejar, planeja em falhar!"*
 
 ---
