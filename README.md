@@ -44,7 +44,7 @@ Estou sempre atento às inovações e boas práticas que impulsionam o desenvolv
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSposito&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSposito_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSposito&langs_count=8)
 
 ---
 
